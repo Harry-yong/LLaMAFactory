@@ -1,4 +1,13 @@
 {
+  "wedoctor_intro": {
+    "file_name": "who_intro.json"
+  },
+  "wedoctor_dsk": {
+    "file_name": "wedoctor_doc.json"
+  },
+  "wedoctor_dsk_add": {
+    "file_name": "wedoctor_doc_add.json"
+  },
   "identity": {
     "file_name": "identity.json"
   },
